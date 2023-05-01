@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/re-ts-app/static/js/main.f851ba9c.js",
+    "main.js": "/re-ts-app/static/js/main.b7f17f7d.js",
     "index.html": "/re-ts-app/index.html",
-    "main.f851ba9c.js.map": "/re-ts-app/static/js/main.f851ba9c.js.map"
+    "main.b7f17f7d.js.map": "/re-ts-app/static/js/main.b7f17f7d.js.map"
   },
   "entrypoints": [
-    "static/js/main.f851ba9c.js"
+    "static/js/main.b7f17f7d.js"
   ]
 }
